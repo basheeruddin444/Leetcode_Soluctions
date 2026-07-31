@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0045-jump-game-ii) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Tree
@@ -89,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
