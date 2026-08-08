@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0051-n-queens) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -114,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0051-n-queens) |
 | [0212-word-search-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0212-word-search-ii) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0051-n-queens) |
 ## Trie
 |  |
@@ -127,5 +131,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0037-sudoku-solver) |
 | [0212-word-search-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0212-word-search-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
