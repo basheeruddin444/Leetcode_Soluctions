@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0065-valid-number) |
+| [0087-scramble-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0087-scramble-string) |
 | [0212-word-search-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0212-word-search-ii) |
 | [0412-fizz-buzz](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2390-removing-stars-from-a-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0045-jump-game-ii) |
+| [0087-scramble-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0087-scramble-string) |
 ## Greedy
 |  |
 | ------- |
