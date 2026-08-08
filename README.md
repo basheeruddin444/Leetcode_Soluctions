@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0085-maximal-rectangle) |
 | [2390-removing-stars-from-a-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0051-n-queens) |
+| [0084-largest-rectangle-in-histogram](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0085-maximal-rectangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0212-word-search-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0212-word-search-ii) |
@@ -144,5 +146,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0085-maximal-rectangle) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
