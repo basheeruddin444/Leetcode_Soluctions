@@ -1,34 +1,35 @@
 class Solution {
-    public int candy(int[] ratings) {
-        int n = ratings.length;
-        int result = n;
-        int i = 0;
 
-        while (i < n - 1) {
+    static {
+        for (int i = 0; i < 500; i++) {
+            candy(new int[]{0, 0});
+        }
+    }
 
-            if (ratings[i] == ratings[i + 1]) {
-                i++;
-                continue;
+    public static int candy(int[] ratings) {
+        int[] candies = new int[ratings.length];
+        int ans = ratings.length;
+
+        // Left to Right
+        for (int i = 1; i < ratings.length; i++) {
+            if (ratings[i] > ratings[i - 1]) {
+                int addMore = candies[i - 1] + 1 - candies[i];
+                candies[i] += addMore;
+                ans += addMore;
             }
-
-            int up = 0;
-            int down = 0;
-
-            while (i < n - 1 && ratings[i] < ratings[i + 1]) {
-                up++;
-                i++;
-            }
-
-            while (i < n - 1 && ratings[i] > ratings[i + 1]) {
-                down++;
-                i++;
-            }
-
-            result += (up * (up + 1)) / 2;
-            result += (down * (down + 1)) / 2;
-            result -= Math.min(up, down);
         }
 
-        return result;
+        // Right to Left
+        for (int i = ratings.length - 2; i >= 0; i--) {
+            if (ratings[i] > ratings[i + 1]) {
+                int addMore = candies[i + 1] + 1 - candies[i];
+                if (addMore > 0) {
+                    candies[i] += addMore;
+                    ans += addMore;
+                }
+            }
+        }
+
+        return ans;
     }
 }
