@@ -154,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0084-largest-rectangle-in-histogram) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
