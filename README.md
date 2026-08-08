@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0085-maximal-rectangle) |
 | [2390-removing-stars-from-a-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0051-n-queens) |
+| [0085-maximal-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0085-maximal-rectangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0212-word-search-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0212-word-search-ii) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0045-jump-game-ii) |
+| [0085-maximal-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0087-scramble-string) |
 ## Greedy
 |  |
@@ -132,9 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0212-word-search-ii) |
 ## Dancing Links
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
