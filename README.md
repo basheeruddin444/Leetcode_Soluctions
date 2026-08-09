@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0282-expression-add-operators) |
 | [0391-perfect-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0391-perfect-rectangle) |
 | [0412-fizz-buzz](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0412-fizz-buzz) |
+| [0479-largest-palindrome-product](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0483-smallest-good-base) |
 | [2469-convert-the-temperature](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0149-max-points-on-a-line) |
+## Enumeration
+|  |
+| ------- |
+| [0479-largest-palindrome-product](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0479-largest-palindrome-product) |
 <!---LeetCode Topics End-->
