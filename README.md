@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0391-perfect-rectangle) |
 | [0957-prison-cells-after-n-days](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0963-minimum-area-rectangle-ii) |
+| [0970-powerful-integers](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0970-powerful-integers) |
 | [3934-smallest-unique-subarray](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3934-smallest-unique-subarray) |
 ## Array
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0913-cat-and-mouse) |
 | [0957-prison-cells-after-n-days](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0963-minimum-area-rectangle-ii) |
+| [0970-powerful-integers](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0970-powerful-integers) |
 | [2469-convert-the-temperature](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0479-largest-palindrome-product) |
 | [0829-consecutive-numbers-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0829-consecutive-numbers-sum) |
+| [0970-powerful-integers](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0970-powerful-integers) |
 ## Least Common Multiple
 |  |
 | ------- |
