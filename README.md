@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1025-divisor-game) |
 | [2469-convert-the-temperature](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0140-word-break-ii) |
 | [0233-number-of-digit-one](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0233-number-of-digit-one) |
 | [0913-cat-and-mouse](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0913-cat-and-mouse) |
+| [1025-divisor-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1025-divisor-game) |
 | [3213-construct-string-with-minimum-cost](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3213-construct-string-with-minimum-cost) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0913-cat-and-mouse) |
+| [1025-divisor-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1025-divisor-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -370,4 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0976-largest-perimeter-triangle) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
