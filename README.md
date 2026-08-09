@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0391-perfect-rectangle) |
 | [3934-smallest-unique-subarray](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3934-smallest-unique-subarray) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0212-word-search-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0212-word-search-ii) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0060-permutation-sequence) |
+| [0149-max-points-on-a-line](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0282-expression-add-operators) |
 | [0391-perfect-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0391-perfect-rectangle) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0149-max-points-on-a-line) |
 | [0391-perfect-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0391-perfect-rectangle) |
 ## Sweep Line
 |  |
@@ -272,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2223-sum-of-scores-of-built-strings) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
