@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2390-removing-stars-from-a-string) |
+| [3213-construct-string-with-minimum-cost](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3213-construct-string-with-minimum-cost) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0391-perfect-rectangle) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
+| [3213-construct-string-with-minimum-cost](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3213-construct-string-with-minimum-cost) |
 ## Tree
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0087-scramble-string) |
 | [0140-word-break-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0140-word-break-ii) |
+| [3213-construct-string-with-minimum-cost](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3213-construct-string-with-minimum-cost) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
 | [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3213-construct-string-with-minimum-cost](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3213-construct-string-with-minimum-cost) |
 ## Hash Function
 |  |
 | ------- |
