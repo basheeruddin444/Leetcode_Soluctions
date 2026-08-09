@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0412-fizz-buzz) |
 | [0479-largest-palindrome-product](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0483-smallest-good-base) |
+| [0829-consecutive-numbers-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0829-consecutive-numbers-sum) |
 | [2469-convert-the-temperature](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
 |  |
@@ -292,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0479-largest-palindrome-product) |
+| [0829-consecutive-numbers-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0829-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
