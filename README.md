@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0330-patching-array) |
 | [0391-perfect-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0391-perfect-rectangle) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 ## Tree
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
 | [0483-smallest-good-base](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0483-smallest-good-base) |
+| [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 ## Binary Tree
 |  |
 | ------- |
@@ -207,20 +209,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
+| [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 ## Suffix Array
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
+| [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 ## Hash Function
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
+| [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 ## Suffix Automaton
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
+| [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 ## Suffix Tree
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
+| [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 <!---LeetCode Topics End-->
