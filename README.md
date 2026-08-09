@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0412-fizz-buzz) |
+| [1044-longest-duplicate-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1044-longest-duplicate-substring) |
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2390-removing-stars-from-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
 | [0483-smallest-good-base](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0483-smallest-good-base) |
+| [1044-longest-duplicate-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1044-longest-duplicate-substring) |
 | [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 ## Binary Tree
 |  |
@@ -205,29 +207,43 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1044-longest-duplicate-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1044-longest-duplicate-substring) |
 ## Rolling Hash
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1044-longest-duplicate-substring) |
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
 | [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 ## Suffix Array
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1044-longest-duplicate-substring) |
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
 | [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 ## Hash Function
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1044-longest-duplicate-substring) |
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
 | [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 ## Suffix Automaton
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1044-longest-duplicate-substring) |
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
 | [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 ## Suffix Tree
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1044-longest-duplicate-substring) |
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
 | [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
+## Z Algorithm
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1044-longest-duplicate-substring) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
