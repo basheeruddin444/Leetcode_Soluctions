@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0006-zigzag-conversion) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0065-valid-number) |
