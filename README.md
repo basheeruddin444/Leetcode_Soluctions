@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0065-valid-number) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0085-maximal-rectangle) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0140-word-break-ii) |
@@ -414,4 +417,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
