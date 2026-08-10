@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0065-valid-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0037-sudoku-solver) |
 | [0140-word-break-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0140-word-break-ii) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1044-longest-duplicate-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1044-longest-duplicate-substring) |
 ## Rolling Hash
