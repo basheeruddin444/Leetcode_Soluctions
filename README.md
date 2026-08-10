@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0065-valid-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0037-sudoku-solver) |
 | [0140-word-break-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0140-word-break-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0149-max-points-on-a-line) |
 | [0233-number-of-digit-one](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0233-number-of-digit-one) |
