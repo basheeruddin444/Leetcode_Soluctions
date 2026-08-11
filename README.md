@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0142-linked-list-cycle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0349-intersection-of-two-arrays) |
 | [0391-perfect-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0391-perfect-rectangle) |
 | [0957-prison-cells-after-n-days](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0963-minimum-area-rectangle-ii) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0212-word-search-ii) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
 | [0330-patching-array](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0330-patching-array) |
+| [0349-intersection-of-two-arrays](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0349-intersection-of-two-arrays) |
 | [0391-perfect-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0391-perfect-rectangle) |
 | [0957-prison-cells-after-n-days](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0963-minimum-area-rectangle-ii) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0349-intersection-of-two-arrays) |
 | [0483-smallest-good-base](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0483-smallest-good-base) |
 | [0878-nth-magical-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0878-nth-magical-number) |
 | [1044-longest-duplicate-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1044-longest-duplicate-substring) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0349-intersection-of-two-arrays) |
 | [0973-k-closest-points-to-origin](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0976-largest-perimeter-triangle) |
 ## Divide and Conquer
