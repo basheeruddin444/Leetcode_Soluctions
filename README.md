@@ -122,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Math
 |  |
@@ -444,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0022-generate-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
