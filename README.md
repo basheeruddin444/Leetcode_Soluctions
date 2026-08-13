@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0149-max-points-on-a-line) |
 | [0233-number-of-digit-one](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
@@ -462,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0112-path-sum) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
