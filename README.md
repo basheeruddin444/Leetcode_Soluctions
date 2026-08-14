@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
 | [0957-prison-cells-after-n-days](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0957-prison-cells-after-n-days) |
 ## Sorting
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0191-number-of-1-bits) |
 | [0973-k-closest-points-to-origin](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
