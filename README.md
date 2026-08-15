@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0087-scramble-string) |
 | [0140-word-break-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0140-word-break-ii) |
+| [0205-isomorphic-strings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0412-fizz-buzz) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0350-intersection-of-two-arrays-ii) |
