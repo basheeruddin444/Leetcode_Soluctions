@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0085-maximal-rectangle) |
+| [0225-implement-stack-using-queues](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0225-implement-stack-using-queues) |
 | [2390-removing-stars-from-a-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -480,4 +481,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0069-sqrtx) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
