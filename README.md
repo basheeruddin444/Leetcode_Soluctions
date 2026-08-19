@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-prison-cells-after-n-days](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0963-minimum-area-rectangle-ii) |
 | [0970-powerful-integers](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0970-powerful-integers) |
+| [1386-cinema-seat-allocation](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3934-smallest-unique-subarray](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3934-smallest-unique-subarray) |
 ## Array
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0989-add-to-array-form-of-integer) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1386-cinema-seat-allocation](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1386-cinema-seat-allocation) |
 | [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 | [2029-stone-game-ix](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2029-stone-game-ix) |
 | [3213-construct-string-with-minimum-cost](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3213-construct-string-with-minimum-cost) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
 | [0957-prison-cells-after-n-days](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0957-prison-cells-after-n-days) |
+| [1386-cinema-seat-allocation](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1386-cinema-seat-allocation) |
 ## Sorting
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0330-patching-array) |
 | [0976-largest-perimeter-triangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0976-largest-perimeter-triangle) |
+| [1386-cinema-seat-allocation](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
