@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0989-add-to-array-form-of-integer) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1386-cinema-seat-allocation](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1872-stone-game-viii) |
 | [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 | [2029-stone-game-ix](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1025-divisor-game) |
+| [1872-stone-game-viii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2469-convert-the-temperature) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0233-number-of-digit-one) |
 | [0913-cat-and-mouse](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0913-cat-and-mouse) |
 | [1025-divisor-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1025-divisor-game) |
+| [1872-stone-game-viii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1872-stone-game-viii) |
 | [3213-construct-string-with-minimum-cost](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3213-construct-string-with-minimum-cost) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -450,18 +453,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0913-cat-and-mouse) |
+| [1872-stone-game-viii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0913-cat-and-mouse) |
 | [1025-divisor-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1025-divisor-game) |
+| [1872-stone-game-viii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0913-cat-and-mouse) |
+| [1872-stone-game-viii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2029-stone-game-ix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -534,4 +540,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
