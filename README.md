@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3213-construct-string-with-minimum-cost](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3213-construct-string-with-minimum-cost) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3934-smallest-unique-subarray](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3934-smallest-unique-subarray) |
 ## Array
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0479-largest-palindrome-product) |
 | [0829-consecutive-numbers-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0829-consecutive-numbers-sum) |
 | [0970-powerful-integers](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0970-powerful-integers) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Least Common Multiple
 |  |
 | ------- |
@@ -532,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Nim Game
 |  |
 | ------- |
