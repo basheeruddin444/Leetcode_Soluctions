@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1872-stone-game-viii) |
 | [1923-longest-common-subpath](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1923-longest-common-subpath) |
 | [2029-stone-game-ix](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2029-stone-game-ix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3213-construct-string-with-minimum-cost](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3213-construct-string-with-minimum-cost) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0976-largest-perimeter-triangle) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -559,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1872-stone-game-viii) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
