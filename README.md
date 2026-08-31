@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0085-maximal-rectangle) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0135-candy) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0069-sqrtx) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Math
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0191-number-of-1-bits) |
 | [0973-k-closest-points-to-origin](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0973-k-closest-points-to-origin) |
