@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0412-fizz-buzz) |
 | [1044-longest-duplicate-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1044-longest-duplicate-substring) |
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0391-perfect-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0391-perfect-rectangle) |
