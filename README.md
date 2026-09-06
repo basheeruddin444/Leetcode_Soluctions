@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0212-word-search-ii) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0119-pascals-triangle-ii) |
 | [0140-word-break-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0140-word-break-ii) |
