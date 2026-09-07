@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0412-fizz-buzz) |
+| [0940-distinct-subsequences-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0940-distinct-subsequences-ii) |
 | [1044-longest-duplicate-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1044-longest-duplicate-substring) |
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
 | [1927-sum-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1927-sum-game) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0140-word-break-ii) |
 | [0233-number-of-digit-one](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0233-number-of-digit-one) |
 | [0913-cat-and-mouse](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0913-cat-and-mouse) |
+| [0940-distinct-subsequences-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1025-divisor-game) |
 | [1872-stone-game-viii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1872-stone-game-viii) |
 | [3213-construct-string-with-minimum-cost](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3213-construct-string-with-minimum-cost) |
