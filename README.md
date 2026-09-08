@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2469-convert-the-temperature) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
