@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0112-path-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Newton's Method
