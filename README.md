@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0970-powerful-integers) |
 | [1386-cinema-seat-allocation](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3213-construct-string-with-minimum-cost](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3213-construct-string-with-minimum-cost) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0233-number-of-digit-one) |
+| [3483-unique-3-digit-even-numbers](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0479-largest-palindrome-product) |
 | [0829-consecutive-numbers-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0829-consecutive-numbers-sum) |
 | [0970-powerful-integers](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0970-powerful-integers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Least Common Multiple
