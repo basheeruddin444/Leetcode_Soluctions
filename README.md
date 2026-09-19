@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1025-divisor-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1927-sum-game) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0836-rectangle-overlap) |
 | [0963-minimum-area-rectangle-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0963-minimum-area-rectangle-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Sweep Line
 |  |
 | ------- |
