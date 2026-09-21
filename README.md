@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2469-convert-the-temperature) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3524-find-x-value-of-array-i](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3871-count-commas-in-range-ii) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-construct-string-with-minimum-cost](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3213-construct-string-with-minimum-cost) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
 | ------- |
