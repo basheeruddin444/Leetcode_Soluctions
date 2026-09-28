@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1096-brace-expansion-ii) |
 | [1316-distinct-echo-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1316-distinct-echo-substrings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1927-sum-game) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2223-sum-of-scores-of-built-strings) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0232-implement-queue-using-stacks) |
 | [1096-brace-expansion-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
