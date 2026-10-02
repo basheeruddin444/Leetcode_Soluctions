@@ -1,27 +1,22 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
-        char[] path = new char[2 * n];
-        generate(0, 0, n, path, result);
-        return result;
+        List<String> ans = new ArrayList<>();
+        backtrack(ans, "", 0, 0, n);
+        return ans;
     }
 
-    private void generate(int open, int close, int n, char[] path, List<String> result) {
-        int pos = open + close;
-
-        if (pos == path.length) {
-            result.add(new String(path));
+    private void backtrack(List<String> ans, String s, int open, int close, int n) {
+        if (s.length() == 2 * n) {
+            ans.add(s);
             return;
         }
 
         if (open < n) {
-            path[pos] = '(';
-            generate(open + 1, close, n, path, result);
+            backtrack(ans, s + "(", open + 1, close, n);
         }
 
         if (close < open) {
-            path[pos] = ')';
-            generate(open, close + 1, n, path, result);
+            backtrack(ans, s + ")", open, close + 1, n);
         }
     }
 }
