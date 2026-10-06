@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0940-distinct-subsequences-ii) |
 | [1044-longest-duplicate-substring](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1044-longest-duplicate-substring) |
 | [1096-brace-expansion-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1096-brace-expansion-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0330-patching-array) |
 | [0678-valid-parenthesis-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0976-largest-perimeter-triangle) |
 | [1386-cinema-seat-allocation](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
