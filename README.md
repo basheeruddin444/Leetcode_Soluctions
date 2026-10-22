@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3934-smallest-unique-subarray) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Tree
 |  |
 | ------- |
