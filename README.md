@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0989-add-to-array-form-of-integer) |
+| [1254-number-of-closed-islands](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1254-number-of-closed-islands) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1386-cinema-seat-allocation](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1254-number-of-closed-islands](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0212-word-search-ii) |
 | [0835-image-overlap](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dancing Links
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Newton's Method
 |  |
@@ -743,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Segment Tree
