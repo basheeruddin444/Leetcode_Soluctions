@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0349-intersection-of-two-arrays) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
 | [0330-patching-array](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0349-intersection-of-two-arrays) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Nim Game
@@ -806,4 +810,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
