@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-smallest-unique-subarray](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Tree
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0023-merge-k-sorted-lists) |
 | [0973-k-closest-points-to-origin](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/0973-k-closest-points-to-origin) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/basheeruddin444/Leetcode_Soluctions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Recursion
 |  |
 | ------- |
